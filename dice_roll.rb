@@ -4,6 +4,6 @@
 
 def roll 
   print 1 + rand(6)
-  return (1..6)
+  rand (1..6)
 end
 roll
