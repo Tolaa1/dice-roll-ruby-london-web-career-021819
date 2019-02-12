@@ -4,6 +4,6 @@
 
 def roll 
   puts 1 + rand(6)
-  return (int)
+  return rand
 end
 roll
